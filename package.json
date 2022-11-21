@@ -1,13 +1,13 @@
 {
   "name": "todo",
   "version": "1.0.0",
-  "description": "mohammed oyais kahn",
+  "description": "mohammed oyais kahn <mohammedoyaiskhan11@gmail.com> ",
   "main": "index.js",
   "scripts": {
     "test": "test jest",
     "prepare": "husky install"
   },
-  "author": "mohammed oyais khan",
+  "author": "mohammed oyais khan <mohammedoyaiskhan11@gmail.com> ",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.24.0",
